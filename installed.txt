@@ -1,0 +1,10 @@
+IdeaVIM
+Key Promoter X
+com.intellij.properties.bundle.editor
+com.mallowigi
+com.tabnine.TabNine
+com.villains.intelij.plugin.newoceantheme
+idea.plugin.protoeditor
+izhangzhihao.rainbow.brackets
+org.jetbrains.kotlin
+some.awesome
